@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Source>C:\IdeaProjects\captura_eac_flutter\assets\images\folder.png</Source>
-    <SmallTileSource>C:\IdeaProjects\captura_eac_flutter\assets\images\folder.png</SmallTileSource>
-    <MediumTileSource>C:\IdeaProjects\captura_eac_flutter\assets\images\folder.png</MediumTileSource>
-    <WideTileSource>C:\IdeaProjects\captura_eac_flutter\assets\images\folder.png</WideTileSource>
-    <LargeTileSource>C:\IdeaProjects\captura_eac_flutter\assets\images\folder.png</LargeTileSource>
-    <AppIconSource>C:\IdeaProjects\captura_eac_flutter\assets\images\folder.png</AppIconSource>
-    <SplashScreenSource>C:\IdeaProjects\captura_eac_flutter\assets\images\folder.png</SplashScreenSource>
-    <PackageLogoSource>C:\IdeaProjects\captura_eac_flutter\assets\images\folder.png</PackageLogoSource>
+    <Source>C:\IdeaProjects\captura_eac_flutter\assets\images\LOGOTIPO DSPM CONTORNOS-17.png</Source>
+    <SmallTileSource>C:\IdeaProjects\captura_eac_flutter\assets\images\LOGOTIPO DSPM CONTORNOS-17.png</SmallTileSource>
+    <MediumTileSource>C:\IdeaProjects\captura_eac_flutter\assets\images\LOGOTIPO DSPM CONTORNOS-17.png</MediumTileSource>
+    <WideTileSource>C:\IdeaProjects\captura_eac_flutter\assets\images\LOGOTIPO DSPM CONTORNOS-17.png</WideTileSource>
+    <LargeTileSource>C:\IdeaProjects\captura_eac_flutter\assets\images\LOGOTIPO DSPM CONTORNOS-17.png</LargeTileSource>
+    <AppIconSource>C:\IdeaProjects\captura_eac_flutter\assets\images\LOGOTIPO DSPM CONTORNOS-17.png</AppIconSource>
+    <SplashScreenSource>C:\IdeaProjects\captura_eac_flutter\assets\images\LOGOTIPO DSPM CONTORNOS-17.png</SplashScreenSource>
+    <PackageLogoSource>C:\IdeaProjects\captura_eac_flutter\assets\images\LOGOTIPO DSPM CONTORNOS-17.png</PackageLogoSource>
+    <BadgeLogoSource>C:\IdeaProjects\captura_eac_flutter\assets\images\LOGOTIPO DSPM CONTORNOS-17.png</BadgeLogoSource>
   </PropertyGroup>
 </Project>
